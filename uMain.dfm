@@ -46,18 +46,4 @@ object FrmMain: TFrmMain
     Left = 559
     Top = 8
   end
-  object PersonTable: TFDQuery
-    Connection = Orcl_connectConnection
-    SQL.Strings = (
-      'SELECT * FROM PERSON')
-    Left = 471
-    Top = 232
-  end
-  object MedreportTable: TFDQuery
-    Connection = Orcl_connectConnection
-    SQL.Strings = (
-      'SELECT * FROM MEDREPORT')
-    Left = 551
-    Top = 234
-  end
 end

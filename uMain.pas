@@ -19,8 +19,6 @@ type
     MenuItemStatist: TMenuItem;
     CloseWindows: TMenuItem;
     Orcl_connectConnection: TFDConnection;
-    PersonTable: TFDQuery;
-    MedreportTable: TFDQuery;
     procedure FormShow(Sender: TObject);
     procedure NewForm(InstanceClass: TComponentClass; var Reference);
     procedure MenuItemOperatorClick(Sender: TObject);

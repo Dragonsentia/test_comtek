@@ -13,20 +13,13 @@ Coordinates=186,56,105,33
 [MainMenu1]
 Coordinates=97,56,70,33
 
-[PersonTable]
-Coordinates=10,10,123,123
-Visible=True
-LayerNames=
-
-[MedreportTable]
-Coordinates=167,10,91,123
-Visible=True
-
 [Orcl_connectConnection]
 Coordinates=346,56,136,33
 
 []
-Coordinates=176,175,63,51
+Coordinates=167,10,91,123
+Visible=True
+LayerNames=
 
 [Module Settings]
 ModelLayerNames=
